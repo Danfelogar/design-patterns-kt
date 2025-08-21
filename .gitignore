@@ -1,0 +1,9 @@
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Archivos específicos que puedes versionar si quieres (opcional)
+# !.idea/codeStyles/
+# !.idea/inspectionProfiles/
